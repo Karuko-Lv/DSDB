@@ -1,0 +1,4 @@
+#编译之后输出的路径 .class文件
+out
+#idea的工程文件
+.idea

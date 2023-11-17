@@ -1,7 +1,6 @@
-package HomeworkDSDB.Day5;
+package HomeworkDSDB.Day07;
 
 import java.util.*;
-import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 
